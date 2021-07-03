@@ -1,0 +1,19 @@
+@media screen and (max-width: 526px){
+    .container{
+        display: flex;
+    }
+    .contenu{
+        margin-top: 20px;
+        display: block;
+    }
+    .container a{
+        float: none;
+        display: inline-block;
+        margin: 0 20px 8px 20px;
+        text-align: center;
+    }
+    .liens{
+        padding-bottom: 10px;
+
+    }
+}
